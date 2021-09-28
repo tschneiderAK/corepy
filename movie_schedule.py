@@ -35,5 +35,5 @@ while finished == 'N':
     finished = finished_input
 
     if finished == 'Y':
-        print('Thank you for using MovieCheck!')
+        print('Thank you for using MovieCheck! Goodbye.')
         break
